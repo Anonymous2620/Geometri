@@ -17,7 +17,7 @@ namespace Geometri
         {
             return 4 * Side;
         }
-        //Her ganger jeg med 4 fordi når man har en kvadrat. Finder man omkreds ved at gange antallet af sider med et af siderne.
+        //Her ganger jeg med 4 fordi når man har en kvadrat finder man omkreds ved at gange antallet af sider med et af siderne.
 
         public double CArea()
         {
