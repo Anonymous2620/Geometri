@@ -11,7 +11,7 @@ namespace Geometri
         {
             this.Side = a;
         }
-
+        //Her fortæller jeg den givne værdi.
 
         public double CPerimeter()
         {
